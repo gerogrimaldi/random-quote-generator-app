@@ -1,0 +1,74 @@
+.quote-box{
+    background-color: cadetblue;
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.quote-text{
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin: 10px;
+    font-style: italic;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    text-shadow: 0 0 11px rgba(33,33,33,.5);
+}
+
+.quote-author{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.new-quote-btn{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.new-quote-btn:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.5); 
+}
+
+#buttons{
+    text-align: right;
+}
+.tweet-btn{
+    background-color: #1DA1F2;;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.tweet-btn:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.5); 
+}
